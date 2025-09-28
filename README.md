@@ -1,0 +1,2 @@
+# FinMate
+ A financial visualizer
